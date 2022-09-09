@@ -1,5 +1,4 @@
-# Projeto - Automação Web
-Projeto de Web Scraping - realizado pelo curso Python Impressionador
+# Projeto de Web Scraping
 
 O projeto consiste em fazer pesquisas no google shopping e no site buscapé buscando produtos cadastrados em uma planilha do excel, que contém o nome do produto, um preço mínimo e máximo e palavras banidas (separadas por espaços). O script então acha esses resultados fazendo os devidos filtros e realiza duas operações:
 
